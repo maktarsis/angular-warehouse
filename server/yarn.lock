@@ -2438,10 +2438,10 @@ babel-preset-fbjs@^3.3.0:
     "@babel/plugin-transform-template-literals" "^7.0.0"
     babel-plugin-syntax-trailing-function-commas "^7.0.0-beta.0"
 
-babel-watch@7.4.0:
-  version "7.4.0"
-  resolved "https://registry.yarnpkg.com/babel-watch/-/babel-watch-7.4.0.tgz#ddcfcb774d7132f3432bca58438fdc82581ae66d"
-  integrity sha512-Ig7Mz0JmPCvs1Tao5ko4Dg/YXaywf9duUhPQUAt0UzSZtuxtYwYmdu4Gf6uaG0zg5vf5qOYpDrzPpG96OQoHkg==
+babel-watch@7.5.0:
+  version "7.5.0"
+  resolved "https://registry.yarnpkg.com/babel-watch/-/babel-watch-7.5.0.tgz#d57b8a5b41a524c935aaef85f58e4237136d2909"
+  integrity sha512-n7J8yUal1iVglkg5TPrOb0pBL67/f40ogY/b5AK5gTl016ukdvCa2bw8AqSdQVjZq54EyZJ8IUsB0tI/bMreZw==
   dependencies:
     chalk "^4.1.0"
     chokidar "^3.4.3"
