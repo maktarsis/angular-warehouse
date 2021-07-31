@@ -1617,31 +1617,31 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@ngrx/effects@10.1.2":
-  version "10.1.2"
-  resolved "https://registry.yarnpkg.com/@ngrx/effects/-/effects-10.1.2.tgz#f1c9daa2e3e13aeb6af272cb52f6dff73d364d68"
-  integrity sha512-6pX6FEzLlqdbtFVMbCvscsaL6QC/L95e72JKj76Xz+8V77UTlpVsxWyMo7YU9pM4EXNpBGmOpMs2xKjfBfK05Q==
+"@ngrx/effects@12.3.0":
+  version "12.3.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/effects/-/effects-12.3.0.tgz#2d1ed8fba0fa9e4b6945efab8eacd7ffe83f0a96"
+  integrity sha512-Bt8AMnnAXZRWYTori5Xg6C8UH9yI/BtenJWJxbYS7fz2IEVpmn/9HnfcdDtjIfnbdIiBUojnUM82KqoZWomyJQ==
   dependencies:
     tslib "^2.0.0"
 
-"@ngrx/router-store@10.1.2":
-  version "10.1.2"
-  resolved "https://registry.yarnpkg.com/@ngrx/router-store/-/router-store-10.1.2.tgz#f8083121611ba72450998eb37dffc26dd17f8ab0"
-  integrity sha512-IBsZee5ZUmLbXkY/O4OjhJP1Q6mdu4lcLcQ9jeXsdCMH/Vvc0EGK+MlhsZrxv5+v2ZXb1bhtKsLBUsTovanLWA==
+"@ngrx/router-store@12.3.0":
+  version "12.3.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/router-store/-/router-store-12.3.0.tgz#a3c6b5d3c0c954a373b6a1b80c12ed6701d35265"
+  integrity sha512-+VcTjPmSOx1CPczskrFMrjXS51vnVEoajoCJiY9uevCNBNhd0Z4VygHQ7R0sldzeEmWR2gDZG/ekjoytSG/kog==
   dependencies:
     tslib "^2.0.0"
 
-"@ngrx/store-devtools@10.1.2":
-  version "10.1.2"
-  resolved "https://registry.yarnpkg.com/@ngrx/store-devtools/-/store-devtools-10.1.2.tgz#1dba8c84df4b56a2b15d6abc01c3c378d1518830"
-  integrity sha512-HE681GuZ+lRgSXpgt7y7LKzsfu/+Tgy9yPZpaitvkhg+eCIjnN5Uvs1rWqETHYWnsKliW25yoqFUAVw+xb7hug==
+"@ngrx/store-devtools@12.3.0":
+  version "12.3.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/store-devtools/-/store-devtools-12.3.0.tgz#dbb7e89289ab50ef51f4e72d346bb3db9bc4f2b8"
+  integrity sha512-G0gBJRBHmDM74+gJ+poowNuZY/ki3J9L0uJqyImYVEV5WImAOEqKqbzgqqSUsPgM7OSdnFJshe6949WM47jYVA==
   dependencies:
     tslib "^2.0.0"
 
-"@ngrx/store@10.1.2":
-  version "10.1.2"
-  resolved "https://registry.yarnpkg.com/@ngrx/store/-/store-10.1.2.tgz#a41aee81ea7b7e4a9f927be560e6024830211efb"
-  integrity sha512-FUjN786ch4Qt9WgJ78ef7Yquq3mPCekgcWgZrs4ycZw1f+KdfTHLTk1bGDtO8A8CzOya5yTT7KhxbdVjbOS5ng==
+"@ngrx/store@12.3.0":
+  version "12.3.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/store/-/store-12.3.0.tgz#e6361dafe2b06c4a5f968807e4c1b41a4dd5809e"
+  integrity sha512-iwfARCo2csTvhbY/6ed2gcAsvJcEY+tHoSsrKz6HTvpN81lSIhXMXORvisKsuQe8lDU2aUl/lGDoldZ8DYo4eg==
   dependencies:
     tslib "^2.0.0"
 
